@@ -71,7 +71,7 @@
 
 ## 7. 스크린샷
 
-> ![alt text](image.png)
+> [sample1.png]
 
 ## 8. 디렉토리 구조
 
